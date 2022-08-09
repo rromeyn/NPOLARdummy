@@ -2,6 +2,8 @@
 Repository for trial exercises - antarctic glaciology
 The background for this repository is an initial exploration of how to map icebergs near the calving front of ice shelves around the entire coastline of Antarctica.
 
+Persistent identifier - A DOI could be added here to make this repository citeable once there were dataset or code results worthy of citing/sharing, but this is not appropriate for this initial (dummy) stage.
+
 # Description of Files
 
 1 - DummySARprocessing.js
